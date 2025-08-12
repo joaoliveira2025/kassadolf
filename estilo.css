@@ -1,0 +1,27 @@
+h2{
+   font-size: 25px;
+   color:rgb(7, 98, 7);
+   font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.titulo{
+    background-color: blue;
+    text-align: center;
+    color:white;
+    font-size: 35px;
+}
+.zipzzy{
+     color:yellow;
+}
+.laranja{
+    color:orange;
+}
+.verde{
+    color:green;
+}
+.vermelho{
+    color:red;
+}
+.azul{
+    color:blue;
+}
